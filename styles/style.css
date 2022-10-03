@@ -15,7 +15,7 @@
   max-height: 756px;
   position: relative;
   display: flex;
-  background-color: #f2f2f2; 
+  background-color: #f2f2f2;
   z-index: 1;
   /* выше установили ограничения для секции */
 }
@@ -154,7 +154,7 @@
 
 .section-table__cell {
   width: 250px;
-  margin-top: 60px
+  margin-top: 60px;
 }
 
 .section-table__heading {
@@ -315,7 +315,7 @@ padding: 0;
 
 .footer__column-link {
   text-decoration: none;
-  color: #ffffff; 
+  color: #ffffff;
   line-height: 30px;
   font-size: 18px;
   font-weight: normal;
